@@ -16,7 +16,7 @@ $totalVentas = mysqli_fetch_assoc($query5);
 ?>
 <div class="card">
     <div class="card-header text-center">
-        Bienvenido
+        Bienvggggggggggggggggggggenido
     </div>
     <div class="card-body">
         <div class="row">
